@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Production
+build/
+dist/
+
+# TypeScript
+*.ts
+!*.d.ts
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+# NPM
+npm-debug.log*
