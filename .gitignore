@@ -5,18 +5,9 @@ node_modules/
 build/
 dist/
 
-# TypeScript
-*.ts
-!*.d.ts
-
 # Logs
 logs/
 *.log
-
-# Runtime data
-pids
-*.pid
-*.seed
 
 # Coverage directory used by tools like istanbul
 coverage/
